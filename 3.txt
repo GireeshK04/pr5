@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 sdsdlflihsd
 asddkfjhsd
+=======
+sdsdlflihs
+sdfdldkgkfd
+>>>>>>> Stashed changes
